@@ -1,6 +1,6 @@
 # Heart Failure Mortality Prediction
 
-- Streamlit Link: [heart-failure-mortality-prediction]([URL](https://heartfailuremortalityprediction.streamlit.app/))
+- Streamlit Link: [heart-failure-mortality-prediction](https://heartfailuremortalityprediction.streamlit.app/)
 
 
 ## Project Overview
