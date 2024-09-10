@@ -1,5 +1,8 @@
 # Heart Failure Mortality Prediction
 
+- Streamlit Link: [heart-failure-mortality-prediction]([URL](https://heartfailuremortalityprediction.streamlit.app/))
+
+
 ## Project Overview
 
 Cardiovascular diseases (CVDs) are the leading cause of death globally, accounting for an estimated 17.9 million lives annually. Early detection of individuals at high risk of cardiovascular diseases is crucial for reducing mortality rates. This project aims to develop a predictive model using machine learning to assess heart failure risk based on patient data and to provide a user-friendly interface through a Streamlit web app.
